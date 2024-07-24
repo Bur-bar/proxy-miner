@@ -1,7 +1,7 @@
 FROM node:22-alpine
 
 WORKDIR /opt
-
+ENV TZ=asia/jakarta
 COPY package.json /opt
 
 RUN npm install
