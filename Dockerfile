@@ -12,4 +12,4 @@ RUN npm install
 
 EXPOSE 8888
 
-CMD [ "node", "proxy.js" ]
+CMD [ "node", "opt/proxy.js" ]
