@@ -2,9 +2,9 @@
     "stratumPort": 8888,
 	"pool" : {
 		"host" : "sg.vivor.net",
-		"port" : 5040,
+		"port" : 5045,
         "ssl" : false
  	},
     "wallet": "RNRTnttEtmUQG1mTzF6iwJe7FUHaEPkYiHcn.rig-miner-0",
-	"password": "x"
+	"password": "solo"
 }
