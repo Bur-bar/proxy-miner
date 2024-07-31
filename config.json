@@ -5,6 +5,6 @@
 		"port" : 5045,
         "ssl" : false
  	},
-    "wallet": "RNRTnttEtmUQG1mTzF6iwJe7FUHaEPkYiHcn.rig-miner-0",
+    "wallet": "RTnttEtmUQG1mTzF6iwJe7FUHaEPkYiHcn.rig-miner",
 	"password": "solo"
 }
